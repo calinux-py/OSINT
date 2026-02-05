@@ -10,7 +10,7 @@ Reverse-engineered GraphQL client that extracts complete product data from 1a4.c
 
 ```bash
 
-python scraper.py
+python poc.py
 
 ```
 
@@ -67,4 +67,5 @@ pip install requests pyyaml
 data = scrape("HTTPS://1A4.COM/13TX7BMRTPRSUWN88TMRRO")
 
 ```
+
 
